@@ -1,16 +1,24 @@
-## Hi there 👋
+# Zoxidjon Mamajonov
 
-<!--
-**mamajonovzokhidjon/mamajonovzokhidjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/NLP Researcher and Computer Engineering graduate focused on Practical AI, LLM/SLM Alignment, and Open-Source ML.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Active Research & Projects
+
+- **[SEVNUR](https://github.com/mamajonovzokhidjon/sevnur):** Open-source research framework dedicated to fine-tuning Small Language Models (3B–8B parameters) for empathy-aware reasoning and psychological safety using SFT and DPO.
+
+---
+
+### 🛠️ Technical Stack
+
+- **Core & Ecosystem:** Python 3.10+, PyTorch, Hugging Face (`transformers`, `peft`, `trl`, `datasets`)
+- **LLM Alignment & Optimization:** Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), LoRA / QLoRA
+- **Data Engineering:** Dataset curation, safety filtering, edge-case evaluation
+
+---
+
+### 🌐 Connect
+
+- **LinkedIn:** [Zoxidjon Mamajonov](https://www.linkedin.com/in/mamajonovzokhidjon)
+- **Email:** mamajonovzokhidjon@gmail.com
